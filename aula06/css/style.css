@@ -1,0 +1,93 @@
+body{
+    background-color: #ff7898;
+}
+.pr1{
+    color: #fff;
+    border: #ff0000;
+    border-style: solid;
+    border-collapse: separate;
+}
+.pr2{
+    font-size: x-large;
+    color: #789654;
+    border-style: groove;
+    border-radius: 15%;
+}
+.pr3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-stretch: condensed;
+    color: #abc456;
+    font-size: 36px;
+}
+.pr4{
+    font-weight:900;
+    color: #111fff;
+    text-shadow: 5px 5px 3px;
+    font-size: small;
+}
+.pr5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 6px 7px 2px;
+    font-size: x-large;
+    word-spacing: 45px;
+}
+.pr6{
+    word-spacing: 20px;
+    color: #abcdef;
+    border-bottom: #111fff;
+    border-bottom: solid;
+}
+.pr7{
+    word-spacing: 15px;
+    color: #bcfddf;
+    font-stretch:condensed;
+    font-weight: lighter;
+}
+.pr8{
+    font-size:xx-small;
+    color: #c9c9c9;
+    font-style: italic;
+    font-family: monospace;
+}
+.pr9{
+    color: #00ff00;
+    font-size: xx-large;
+    border-top: #789654;
+    border-top: solid;
+}
+.pr10{
+    color: #ff0000;
+    font-size: 25px;
+    word-spacing: 13px;
+    border-bottom: #00ff00 1px solid;
+}
+.pr11{
+    text-shadow: 5px 2px 2px;
+    border-left: #111fff 2px solid;
+    word-spacing: 15px;
+    margin: 5px;
+}
+.pr12{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #0000ff;
+    font-size: 29px;
+    font-stretch: condensed;
+}
+.pr13{
+    font-weight: 700;
+    font-style: oblique;
+    font-stretch:extra-condensed;
+    color: #c9c9c9;
+}
+.pr14{
+    word-spacing: 11px;
+    color: #aaafff;
+    border-width: 20px;
+    border-style: outset;
+}
+.pr15{
+    border-style: dotted;
+    border-width: 5px;
+    border-color: #0000ff;
+    font-size: xx-small;
+}

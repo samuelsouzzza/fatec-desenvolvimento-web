@@ -1,0 +1,23 @@
+#imagem1, #imagem2, #imagem3, #imagem4, #imagem5{
+    border: 10px solid #ff0000;
+    max-width: 300px;
+    max-height: 200px;
+}
+#imagem1:active{
+    border: 10px solid #123456;
+    transform: scale(0.9);
+}
+#imagem2:active{
+    border: 10px solid #123456;
+    transform: rotateZ(-30deg);
+}
+#imagem3:active{
+    border-radius: 100%;
+}
+#imagem4:hover{
+    transform: rotatez(90turn);
+    transition: transform 5s ease;
+}
+#imagem5:active{
+    filter:grayscale(100%);
+}
